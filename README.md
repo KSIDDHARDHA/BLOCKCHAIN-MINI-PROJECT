@@ -1,0 +1,3 @@
+# BLOCKCHAIN-MINI-PROJECT
+6TH SEM MINI PROJECT FOR BTECH
+this is for client folder
